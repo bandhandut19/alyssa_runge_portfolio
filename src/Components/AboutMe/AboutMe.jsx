@@ -19,9 +19,7 @@ const AboutMe = () => {
         <div>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa sit,
-            odit iste sequi nobis culpa ratione autem, accusamus molestias eaque
-            itaque praesentium eius sint quasi reprehenderit consequatur illum
-            quibusdam facere.
+            odit iste sequi nobis 
           </p>
         </div>
       </div>
